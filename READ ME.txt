@@ -1,0 +1,55 @@
+INSTRUCTIONS TO RUN THIS GAME:
+
+1. Open "ProjectLlamaLoot.py to run the executable.
+2. Use the UP & Down arrow keys to navigate the menu.
+3. TEST CODE or Pll2.py is the executable pygame code used to expirement our code and scripts. The executable is HIGHLY unstable and may suffer crash errors
+   depending on your device specs.
+
+ NOTICE:
+	Please do not edit or modify ANY of the code written in "ProjectLlamaLoot.py". This may render the program Unexecutable.
+	if you have any concerns with our scripts or would like to add something to the game, please create a seperate text file and let us know
+	what you think should be changed/added.
+
+ 
+ UPDATE // 1.0.0.03 (ALPHA) - December 11th, 2019 - 4:56 PM:
+	
+	- Finished Support for Menu Button Scrolling.
+	- Added In-Game Menu Music.
+	- Added option to press 'Escape' to exit the program.
+	- Added Confirm Exit screen, activated when 'Escape' or "QUIT" is pressed.
+	- Loading Time Reduced From 23 seconds to 8 seconds MAX.
+	- Changed Text position for "START" to 300 from 320.
+	- changed Text position for "PATCH NOTES" to 385 from 405.
+	- Changed Text position for "QUIT" to 470 from 490.
+	- Added Mouse support For the main game screen.
+	- Removed Arrow Key Support From the main game screen.
+	- Removed window resizing until we can find a fix to the force quit bug.
+	
+
+	- Adding 60 FPS Support to devices with 8gb Ram or more tonight. We found the source code for this on reddit.com/r/pygame 
+	
+
+ BUG FIXES // 1.0.0.03 (ALPHA) - December 11th, 2019 - 4:56 PM:
+	
+	- Patched the bug where the game would force quit when returning from the "Patch Notes" screen.
+	- Patched the bug where if you alt clicked you could resize the window, force quitting the game.
+	- Patched the bug where sometimes the quit button did not work, forcing you to quit the program via task manager.
+	- Patched the bug where the loading screen didn't render on some devices (blit error caused due to an os malfunction with Vista)
+	- Patched the bug where the you couldnt get to the quit button via arrow keys. (this was supposed to be patched in the last fix but im quite dumb).
+
+
+WORD FROM THE DEVELOPERS:
+
+Thanks to the incredible team we have built over at our discord and reddit, we are able to shorten the first Public Release Date from our estimation of Late June, to early March and possibly late February.
+
+We now have a developer dedicated to working on Pysics (being implemented sometime in update // 1.0.1.0 (according to our roadmap).
+
+We now also have 2 Alpha testers focused on finding and reporting bugs and errors hidden in the game and the script itself.
+
+Looking to try our game early or Possibly help in the development of Llama Loot?
+Join our Discord here! ---> https://discord.gg/CVp2ckm
+
+
+HOPE YOU ENJOY Llama Loot!
+
+Mr Simms this game will make you proud one day.
